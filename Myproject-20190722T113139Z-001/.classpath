@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Myproject/src"/>
+	<classpathentry kind="lib" path="Myproject/jars/extentreports-java-2.41.1.jar"/>
+	<classpathentry kind="lib" path="Myproject/jars/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="Myproject/jars/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="Myproject/jars/poi-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="Myproject/jars/poi-ooxml-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="Myproject/jars/poi-ooxml-schemas-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="Myproject/jars/selenium-server-standalone-3.0.1.jar"/>
+	<classpathentry kind="lib" path="Myproject/jars/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="Myproject/bin"/>
+</classpath>

@@ -1,0 +1,2 @@
+com.hrm.scripts.CreateEmployee 2020-01-07 16:29:17,059 com.hrm.base.BaseTest.initReport(BaseTest.java:55) initializing ExtentReport 
+com.hrm.scripts.CreateEmployee 2020-01-07 16:29:17,379 com.hrm.base.BaseTest.initGlobalVar(BaseTest.java:70) initialize Global variables 
